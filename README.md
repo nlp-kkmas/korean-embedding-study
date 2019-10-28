@@ -1,11 +1,20 @@
 # korean-embedding-study
 이기창(ratsgo)님의 자연어 처리 저서 '한국어 임베딩' 스터디 기록 저장소입니다. 모든 구현은 PyTorch를 이용해 이루어질 예정입니다.
+
+---
+
 <br/>
+
+## People
+[허 훈](https://github.com/Huffon), [이인환](https://github.com/lih0905), 박병준, [정민수](https://github.com/4seaday), [정지용](https://github.com/jistim), 배종춘, [이혜리](https://github.com/keirahrlee), [한수민](https://github.com/dlems), Onur Sahil
+
+<br/>
+
 
 ## Study sessions
 - **Week 1.** Chapter 1. 서론 - Chapter 3. 한국어 전처리
-	- 1장. 서론 (by. 종춘)
-	- 2장. 벡터가 어떻게 의미를 가지게 되는가 (by. 수민)
+	- 1장. 서론 (by. 수민)
+	- 2장. 벡터가 어떻게 의미를 가지게 되는가 (by. 종춘)
 	- 3장. 한국어 전처리 (by. 훈)
 
 - **Week 2.** Chapter 4. 단어 수준 임베딩
@@ -18,6 +27,8 @@
 
 - **Week 4.** Chapter 5. 문장 수준 임베딩 (cont'd)
 	- Transformer 코드 리뷰 **with. basic implementation** (by. 훈)
+
+---
 
 - **Week 5.** Chapter 5. 문장 수준 임베딩 (cont'd)
 	- ELMo (Deep contextualized word representations) paper review (by. OO)
@@ -32,6 +43,8 @@
 
 - **Week 8.** Chapter 5. 문장 수준 임베딩 (cont'd)
 	- BERT 코드 리뷰 **with. basic implementation** (by. OO)
+
+---
 
 - **Week 9.** Chapter 6. 임베딩 파인 튜닝
 	- 6.1 프리트레인과 파인 튜닝 ~ 6.6 어떤 문장 임베딩을 사용할 것인가 (by. OO)
