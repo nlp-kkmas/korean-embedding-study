@@ -1,5 +1,7 @@
-# korean-embedding-study
-이기창(ratsgo)님의 자연어 처리 저서 '한국어 임베딩' 스터디 기록 저장소입니다. 모든 구현은 PyTorch를 이용해 이루어질 예정입니다.
+# 이기창 저 '한국어 임베딩' 스터디
+이기창(ratsgo)님의 자연어 처리 저서 '한국어 임베딩' 스터디 기록 저장소입니다. 
+
+모든 구현 및 실습은 PyTorch를 이용해 이루어질 예정입니다.
 
 ---
 
@@ -50,8 +52,8 @@
 	- 6.1 프리트레인과 파인 튜닝 ~ 6.6 어떤 문장 임베딩을 사용할 것인가 (by. OO)
 
 - **Week 10.** 논문 리뷰 세션
-	- [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) (by. OO)
-	- [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) (by.OO)
+	- [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) paper review (by. OO)
+	- [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) paper review (by.OO)
 
 
 <br/>
