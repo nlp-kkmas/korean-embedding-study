@@ -27,11 +27,11 @@
 
 - **Week 4.** Chapter 5. 문장 수준 임베딩
 	- 5.1 잠재 의미 분석 ~ 5.4 ELMo (by. OO)
-	- 5.5 트랜스포머 네트워크 with Transformer (Attention Is All You Need) paper review (by. OO)
 
 ---
 
 - **Week 5.** Chapter 5. 문장 수준 임베딩 (cont'd)
+	- 5.5 트랜스포머 네트워크 with Transformer (Attention Is All You Need) paper review (by. OO)
 	- Transformer 코드 리뷰 **with. basic implementation** (by. 훈)
 
 - **Week 6.** Chapter 5. 문장 수준 임베딩 (cont'd)
@@ -60,11 +60,12 @@
 
 <br/>
 
-## Libraries
+## Repositories
 - [AllenNLP](https://github.com/allenai/allennlp)
 - [hugging face's transformers](https://github.com/huggingface/transformers)
 - [sentencepiece](https://github.com/google/sentencepiece)
 - [soynlp](https://github.com/lovit/soynlp)
+- [korean-embedding](https://github.com/ratsgo/embedding)
 
 
 <br/>
