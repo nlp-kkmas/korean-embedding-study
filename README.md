@@ -26,13 +26,13 @@
 	- 4.5 GloVe ~ 4.8 가중 임베딩 (by. 혜리)
 
 - **Week 4.** Chapter 5. 문장 수준 임베딩
-	- 5.1 잠재 의미 분석 ~ 5.4 ELMo (by. OO)
+	- 5.1 잠재 의미 분석 ~ 5.4 ELMo (by. 지용)
 
 ---
 
 - **Week 5.** Chapter 5. 문장 수준 임베딩 (cont'd)
-	- 5.5 트랜스포머 네트워크 with Transformer (Attention Is All You Need) paper review (by. OO)
-	- Transformer 코드 리뷰 **with. basic implementation** (by. 훈)
+	- 5.5 트랜스포머 네트워크 with Transformer (Attention Is All You Need) paper review (by. 훈)
+	- Transformer 코드 리뷰 **with. basic implementation** (by. 인환)
 
 - **Week 6.** Chapter 5. 문장 수준 임베딩 (cont'd)
 	- ELMo (Deep contextualized word representations) paper review (by. OO)
@@ -56,6 +56,9 @@
 - **Week 11.** 논문 리뷰 세션
 	- [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) paper review (by. OO)
 	- [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) paper review (by.OO)
+
+- **Week 12.** 쫑 파 티 
+	- No study, only drink(?)
 
 
 <br/>
