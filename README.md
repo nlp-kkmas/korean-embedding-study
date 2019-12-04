@@ -35,20 +35,20 @@
 	- Transformer 코드 리뷰 **with. basic implementation** (by. 인환)
 
 - **Week 6.** Chapter 5. 문장 수준 임베딩 (cont'd)
-	- ELMo (Deep contextualized word representations) paper review (by. OO)
-	- ELMo 코드 리뷰 **with. AllenNLP** (by. OO)
+	- ELMo (Deep contextualized word representations) paper review (by. 병준)
+	- ELMo 코드 리뷰 **with. AllenNLP** (by. 민수)
 
 - **Week 7.** Chapter 5. 문장 수준 임베딩 (cont'd)
-	- ELMo 코드 리뷰 **with. basic implementation** (by. OO)
+	- ELMo 코드 리뷰 **with. basic implementation** (by. 지용)
 
 - **Week 8.** Chapter 5. 문장 수준 임베딩 (cont'd)
-	- 5.6 BERT with BERT (Pre-training of Deep Bidirectional Transformers for Language Understanding) paper review (by. OO)
-	- BERT 코드 리뷰 **with. hugging face** (by. OO)
+	- 5.6 BERT with BERT (Pre-training of Deep Bidirectional Transformers for Language Understanding) paper review (by. 혜리)
+	- BERT 코드 리뷰 **with. hugging face** (by. 훈)
 
 ---
 
 - **Week 9.** Chapter 5. 문장 수준 임베딩 (cont'd)
-	- BERT 코드 리뷰 **with. basic implementation** (by. OO)
+	- BERT 코드 리뷰 **with. basic implementation** (by. 혜리)
 
 - **Week 10.** Chapter 6. 임베딩 파인 튜닝
 	- 6.1 프리트레인과 파인 튜닝 ~ 6.6 어떤 문장 임베딩을 사용할 것인가 (by. OO)
@@ -58,7 +58,7 @@
 	- [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) paper review (by.OO)
 
 - **Week 12.** 쫑 파 티 
-	- No study, only drink(?)
+	- No study, only drink (?)
 
 
 <br/>
