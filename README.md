@@ -43,7 +43,7 @@
 
 - **Week 8.** Chapter 5. 문장 수준 임베딩 (cont'd)
 	- 5.6 BERT with BERT (Pre-training of Deep Bidirectional Transformers for Language Understanding) paper review (by. 혜리)
-	- BERT 코드 리뷰 **with. basic implementation** (by. 훈)
+	- BERT 코드 리뷰 **with. basic implementation** (by. 훈) : [**_Link_**](https://github.com/Huffon/pytorch-bert)
 
 <br/>
 
