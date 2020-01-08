@@ -43,23 +43,7 @@
 
 - **Week 8.** Chapter 5. 문장 수준 임베딩 (cont'd)
 	- 5.6 BERT with BERT (Pre-training of Deep Bidirectional Transformers for Language Understanding) paper review (by. 혜리)
-	- BERT 코드 리뷰 **with. hugging face** (by. 훈)
-
----
-
-- **Week 9.** Chapter 5. 문장 수준 임베딩 (cont'd)
-	- BERT 코드 리뷰 **with. basic implementation** (by. 혜리)
-
-- **Week 10.** Chapter 6. 임베딩 파인 튜닝
-	- 6.1 프리트레인과 파인 튜닝 ~ 6.6 어떤 문장 임베딩을 사용할 것인가 (by. OO)
-
-- **Week 11.** 논문 리뷰 세션
-	- [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) paper review (by. OO)
-	- [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) paper review (by.OO)
-
-- **Week 12.** 쫑 파 티 
-	- No study, only drink (?)
-
+	- BERT 코드 리뷰 **with. basic implementation** (by. 훈)
 
 <br/>
 
